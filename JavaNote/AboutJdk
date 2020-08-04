@@ -1,0 +1,22 @@
+Java Development Kit (JDK){
+  
+  1. Developmet Tools(IDEA,NETBEANS..);
+  
+  2. Java Runtime Environment (JRE) {
+      Java Virtual Machine(JVM);
+      Library Support;
+  }
+  
+}
+
+javac.exe, compiler
+The javac tool reads class and interface definitions, written in the Java programming language, and compiles them into bytecode class files.
+code we wirite in any language(Java) ------(compiler)------->  machine language (0's, 1's)
+将高级java源码文件翻译成字节码文件的编译器
+
+java.exe, interpreter
+Java interpreter translates the Java bytecode into the code that can be understood by the Operating System.
+bytecode ----(interpreter)-----> output
+启动JVM对字节码文件进行解释并执行的解释器
+
+Running Single-file Programs without Compiling in Java 11
